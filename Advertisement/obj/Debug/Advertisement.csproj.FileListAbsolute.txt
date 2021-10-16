@@ -1,0 +1,7 @@
+E:\Yeni qovluq\Advertisement\Advertisement\bin\Debug\Advertisement.exe.config
+E:\Yeni qovluq\Advertisement\Advertisement\bin\Debug\Advertisement.exe
+E:\Yeni qovluq\Advertisement\Advertisement\bin\Debug\Advertisement.pdb
+E:\Yeni qovluq\Advertisement\Advertisement\obj\Debug\Advertisement.csproj.AssemblyReference.cache
+E:\Yeni qovluq\Advertisement\Advertisement\obj\Debug\Advertisement.csproj.CoreCompileInputs.cache
+E:\Yeni qovluq\Advertisement\Advertisement\obj\Debug\Advertisement.exe
+E:\Yeni qovluq\Advertisement\Advertisement\obj\Debug\Advertisement.pdb
